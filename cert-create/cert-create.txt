@@ -1,0 +1,1 @@
+.\openssl.exe req -x509 -out localhost1.crt -keyout localhost1.key -newkey rsa:2048 -nodes -sha256 -subj '/CN=localhost'
